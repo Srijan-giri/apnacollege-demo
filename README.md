@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is first Git Repository
+This is first Git Repository.
+Author - Srijan Giri.
