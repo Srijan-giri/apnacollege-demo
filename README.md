@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is first Git Repository.
 <br>
-Author - Srijan Giri.
+Author - Srijan Giri(MSIT).
