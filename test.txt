@@ -1,0 +1,9 @@
+all files : ls / ls -a
+directory : mkdir
+user-name : git config --global user.name
+email address: git config --global user.email
+clone : git clone url
+status : git status
+add : git add .
+commit : git commit -m "message"
+push : git push origin main
